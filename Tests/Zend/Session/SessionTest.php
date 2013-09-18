@@ -1,7 +1,7 @@
 <?php
-namespace Tests\Zend\Validate;
+namespace Tests\Zend\Session;
 
-class CacheTest extends \Tests\TestCase
+class SessionTest extends \Tests\TestCase
 {
     protected $classes = array(
         '\Zend_Session',
