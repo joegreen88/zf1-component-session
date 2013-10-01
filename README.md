@@ -1,4 +1,4 @@
-zf1-component-session
+zf1-component-session ![build status](https://travis-ci.org/joegreen88/zf1-component-session.png)
 =====================
 
 The Zend_Session component from Zend Framework 1.12 abstracted out for use with composer.
